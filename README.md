@@ -1,5 +1,5 @@
 <img width="1700" height="460" alt="github-header-banner (4)" src="https://github.com/user-attachments/assets/4c7d3fbe-e553-4f46-b34e-7e933b54e136" />
-alt="Javier | Desarrollador Multiplataforma |"
+<alt="Javier | Desarrollador Multiplataforma |"/>
 
 ## 🧑‍💻 Quien soy
 

@@ -1,4 +1,4 @@
-### [eyyMinda](https://eyyminda.vercel.app/) ${\color{orange}- \space Software \space Developer}$  
+### [jaade](https://eyyminda.vercel.app/) ${\color{orange}- \Programador \Desarrollador de aplicaciones}$  
 
 ## ⚙️ My skills
 

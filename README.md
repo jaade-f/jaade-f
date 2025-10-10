@@ -1,4 +1,5 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/b6ac0811-1c85-46ea-a435-14b1d211863e" />
+<img width="1700" height="460" alt="github-header-banner (4)" src="https://github.com/user-attachments/assets/4c7d3fbe-e553-4f46-b34e-7e933b54e136" />
+
 
 ### [jaade](https://eyyminda.vercel.app/) ${\color{#FA1306} < Programador >}$  
 

@@ -1,8 +1,6 @@
 <img width="1700" height="460" alt="github-header-banner (4)" src="https://github.com/user-attachments/assets/4c7d3fbe-e553-4f46-b34e-7e933b54e136" />
 
 
-### [jaade](https://eyyminda.vercel.app/) ${\color{#FA1306} < Programador >}$  
-
 👋 ¡Hola! Soy Javier, estudiante de último año del Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
 Durante mi formación he adquirido experiencia en desarrollo de software, programación orientada a objetos, gestión de bases de datos y gestion de equipos.
 

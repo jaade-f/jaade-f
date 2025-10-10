@@ -1,5 +1,10 @@
 ### [jaade](https://eyyminda.vercel.app/) ${\color{#FA1306} < Programador >}$  
 
+👋 ¡Hola! Soy Jaade, estudiante de último año del Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
+Durante mi formación he adquirido experiencia en desarrollo de software, programación orientada a objetos, gestión de bases de datos y gestion de equipos.
+
+Mi objetivo es seguir creciendo como desarrollador y aplicar mis conocimientos en entornos profesionales, aportando soluciones eficientes y de calidad.
+
 ## ⚙️ My skills
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)

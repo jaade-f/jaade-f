@@ -34,8 +34,9 @@ Mi objetivo es seguir creciendo como desarrollador y aplicar mis conocimientos e
 - Aprender sobre arquitectura de software y buenas prácticas.
 - Publicar mi primera aplicación en Android.
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+# ⚙️ Ejercicio de Angel 1 SMX
+```bash
 
-<div>
-<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</div>
+Poner ejercicio
+
+```

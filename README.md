@@ -36,9 +36,43 @@ Mi objetivo es seguir creciendo como desarrollador y aplicar mis conocimientos e
 
 # ⚙️ Ejercicio
 ```bash
+if (palabraIntroducica == false) {
+            System.out.println("Primero debes introducir una palabra");
+            return;
+        }
+        for (int i = 0; i < palabra.length(); i++) {
+            Arrays.fill(guiones, '-');
+        }
+        while (intentos != 0){
+            System.out.println("#########################");
+            System.out.println(guiones);
+            System.out.println("Tienes estos intentos: " + intentos);
+            System.out.println("Has introducido estas letras: " + faltan);
+            System.out.println("Introduce un carcter");
+            char adivinar = sc.next().charAt(0);
+            faltan = faltan + " " + adivinar;     //Hay que sumar el string mas el char
 
-Poner ejercicio
-
+            for (int j = 0; j < guiones.length; j++) {
+                char result = palabra.charAt(j);
+                if (adivinar == palabra.charAt(j)) {
+                    guiones[j] = adivinar;
+                    aciertos = false;
+                    contador++;                                     //Hay que modificar cuando un caracter esta repetido creo que hay que hacer un array con los elementos introducidos
+                    if (contador == guiones.length) {
+                        System.out.println("Has acertado la palabra");
+                        intentos = 11;
+                        contador = 0;
+                        faltan = " ";
+                        palabraIntroducica = false;
+                        return;
+                    }
+                }
+            }
+            if (aciertos==true) {
+                intentos--;
+            }
+            aciertos=true;
+        }
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">

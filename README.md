@@ -50,14 +50,14 @@ if (palabraIntroducica == false) {
             System.out.println("Has introducido estas letras: " + faltan);
             System.out.println("Introduce un carcter");
             char adivinar = sc.next().charAt(0);
-            faltan = faltan + " " + adivinar;     //Hay que sumar el string mas el char
+            faltan = faltan + " " + adivinar;
 
             for (int j = 0; j < guiones.length; j++) {
                 char result = palabra.charAt(j);
                 if (adivinar == palabra.charAt(j)) {
                     guiones[j] = adivinar;
                     aciertos = false;
-                    contador++;                                     //Hay que modificar cuando un caracter esta repetido creo que hay que hacer un array con los elementos introducidos
+                    contador++;
                     if (contador == guiones.length) {
                         System.out.println("Has acertado la palabra");
                         intentos = 11;

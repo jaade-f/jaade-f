@@ -34,7 +34,7 @@ Mi objetivo es seguir creciendo como desarrollador y aplicar mis conocimientos e
 - Aprender sobre arquitectura de software y buenas prácticas.
 - Publicar mi primera aplicación en Android.
 
-# ⚙️ Ejercicio
+# ⚙️ Ejercicio ahorcado
 ```bash
 if (palabraIntroducica == false) {
             System.out.println("Primero debes introducir una palabra");

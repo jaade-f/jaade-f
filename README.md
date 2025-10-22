@@ -8,7 +8,7 @@ Durante mi formación he adquirido experiencia en desarrollo de software, progra
 
 Mi objetivo es seguir creciendo como desarrollador y aplicar mis conocimientos en entornos profesionales, aportando soluciones eficientes y de calidad.
 
-## ⚙️ My skills
+## ⚙️ Mis skills
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)

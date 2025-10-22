@@ -34,6 +34,13 @@ Mi objetivo es seguir creciendo como desarrollador y aplicar mis conocimientos e
 - Aprender sobre arquitectura de software y buenas prácticas.
 - Publicar mi primera aplicación en Android.
 
+## 🙋 Aficiones
+
+- Me encanta hacer deporte, sobre todo el basquet.
+- Los videojuegos son mi pasion.
+- Me gusta mucho la moda.
+- Otra de mis grandes pasiones es la peluqueria.
+
 # ⚙️ Ejercicio ahorcado
 ```bash
 if (palabraIntroducica == false) {
